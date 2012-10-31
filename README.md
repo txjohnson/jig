@@ -50,9 +50,9 @@ Enables a logging interface on the grammar. See the header for the interface a c
 
 See Also
 --------
-[1] Ian Piumarta, peg/leg man page
-[2] Bryan Ford, "Packrat Parsing: Simple, Powerful, Lazy, Linear Time"
-[3] Roman R. Redziejowski, "Applying Classical Concepts to Parsing Expression Grammar∗"
-[4] Debasish Ghosh, "DSL's in Action" 2011
++ [1] Ian Piumarta, peg/leg man page
++ [2] Bryan Ford, "Packrat Parsing: Simple, Powerful, Lazy, Linear Time"
++ [3] Roman R. Redziejowski, "Applying Classical Concepts to Parsing Expression Grammar∗"
++ [4] Debasish Ghosh, "DSL's in Action" 2011
 
 fin
